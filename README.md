@@ -1,6 +1,6 @@
 # Data Collection for Research Papers
 
-This repository contains scripts to collect research paper metadata using  **Crossref** and **Semantic Scholar** 
+This repository contains scripts to collect to collect metadata for 300,000 research papers using **Crossref** and **Semantic Scholar** 
 
 ## Data Sources Documentation
 
